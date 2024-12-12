@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "bulid": "node src/index.js",
     "dev": "nodemon src/index.js",
     "production": "node src/index.js",
     "test": "jest"

@@ -112,8 +112,8 @@ Relational Diagram: https://app.eraser.io/workspace/T0PcOAZhSSKkmBodPvLd
    npm run dev
    ```
 
-Access the application at [http://localhost:5000](http://localhost:5000).
+Access the application at [http://localhost:5000](https://gym-management-api-i69z.onrender.com/).
 
 ## Live Hosting Link
 
-[Visit the live application](link_to_live_application)
+[Visit the live application](https://gym-management-api-i69z.onrender.com/)
