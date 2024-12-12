@@ -1,0 +1,45 @@
+# Ignore node_modules
+/node_modules/
+
+# Ignore logs
+/logs/
+
+# Ignore env variables
+.env
+
+# Ignore build files
+/dist/
+
+# Ignore OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore temp files
+*.swp
+
+# Ignore npm-debug.log
+npm-debug.log*
+
+# Ignore coverage directory used by tools like istanbul
+coverage/
+
+# Ignore the output of the compiler
+# lib/
+# dist/
+
+# Local development environment
+# env.js
+# env.development.js
+# env.production.js
+# env.test.js
+
+# API keys
+# api-key.js
+
+# Tests
+# tests/

@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: gym-management-api
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm production
+    envVars:
+      - key: PORT
+        value: 5000
+      - key: MONGODB_URI
+        value: 'mongodb+srv://mohammedkofil8:tvPj51FShHhSZpkZ@gym-management.6n0e9.mongodb.net/?retryWrites=true&w=majority&appName=gym-management'
+      - key: JWT_SECRET
+        value: '55bed6ade3af30eca6396c69b14a1093c25039dbc1f4f0317bd7e70e9fe83833'
