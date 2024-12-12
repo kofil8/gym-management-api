@@ -43,7 +43,7 @@ https://assorted-seatbelt-dd1.notion.site/Gym-Management-System-159a93a2d5038091
 
 ## Relation Diagram
 
-![Relational Diagram](https://app.eraser.io/workspace/T0PcOAZhSSKkmBodPvLd)
+Relational Diagram: https://app.eraser.io/workspace/T0PcOAZhSSKkmBodPvLd
 
 ## Technology Stack
 
